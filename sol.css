@@ -1,0 +1,24 @@
+body{background: skyblue;} 
+
+
+
+header{
+	background: floralwhite;
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+	padding: 40px 20px;
+
+}
+.logo-section h1{ 
+	margin: 0;
+
+}
+.slogan{margin-top: 5px}
+Footer{
+	background: floralwhite;
+    color: black;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 50px; 
+     }
